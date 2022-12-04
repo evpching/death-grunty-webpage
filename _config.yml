@@ -2,8 +2,8 @@ title: Death Grunty
 author: Ethyn Valen
 url: https://info.deathgrunty.xyz # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Death Grunty is a .hack themed Discord bot featuring a copypasta system, pet customization, simple RPG elements, and more!
-  Death Grunty is currently in development, so features/user data are subjected to change at any time.
+  Death Grunty is a .hack themed Discord bot featuring a copypasta system, pet grunty customization, simple RPG elements based on The World, and more!
+  Death Grunty is currently in active development, so features/user data are subjected to change at any time.
 
 permalink: /:slug
 
