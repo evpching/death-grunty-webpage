@@ -11,10 +11,10 @@ navbar_entries:
   - title: Updates
     url: updates
 
-footer_entries:
-  - title: Ko-Fi Page
-    url: https://ko-fi.com/evpching
+  - title: Donate
+    url: donate
 
+footer_entries:
   - title: .hack//IMOQ Fan Remaster
     url: http://76.110.248.24:831/
 

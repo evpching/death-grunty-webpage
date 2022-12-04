@@ -8,14 +8,12 @@ layout: default
   <div class="dashed"></div>
 {% endif %}
 
-  <h1>{{ site.title }}</h1>
+  <img src="images/banner-default.png" alt="Death Grunty Banner">
   {% if site.theme_config.show_description == true %}
-    <p><img src="https://cdn.discordapp.com/attachments/871383929284870145/1048415792510795786/dg-happy.png" alt="Death Grunty"></p>
+    <img src="images/dg-portrait-detailed.png" alt="Death Grunty">
     <p>{{ site.description }}</p>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=812881609794519082&permissions=0&scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer"><img width="60%" src="images/invite-button.png" alt="Death Grunty"></a>
   {% endif %}
-
-  <h1>Ready to invite Death Grunty?</h1>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=812881609794519082&permissions=0&scope=bot%20applications.commands">Click here to invite Death Grunty!</a>
 </header>
 
 {{ content }}
@@ -44,9 +42,6 @@ layout: default
 {% if site.theme_config.show_footer == true %}
   <footer>
     <div class="dashed"></div>
-    {% include horizontal_list.html collection=site.data.home.footer_entries %}
+    {% include horizontal_list_newtab.html collection=site.data.home.footer_entries %}
   </footer>
 {% endif %}
-
-<p><img src="https://cdn.discordapp.com/attachments/823118203415691276/1048833766019305533/banner_default.png" alt="Death Grunty"></p>
-
