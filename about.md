@@ -1,18 +1,16 @@
 ---
 layout: post
-title: About
+title: About Death Grunty
 ---
 
-![This is an image](images/dg-portrait-detailed.png)
+![Death Grunty!](images/dg-portrait-detailed.png)
 
 1. [Who is Death Grunty?](#whois)
 2. [What can Death Grunty do?](#purpose)
 3. [Background](#background)
 
 ## Who is Death Grunty? <a name="whois"></a>
-Death Grunty is a multi-purpose, [.hack](https://en.wikipedia.org/wiki/.hack) themed [Discord.js v14 bot](https://discordjs.guide/whats-new.html) that features a copypasta system, pet grunty customization, simple RPG elements based on The World, and more! 
-
-Death Grunty is based on [Death Grunty](https://dothack.fandom.com/wiki/Death_Grunty) from [.hack//G.U.](https://en.wikipedia.org/wiki/.hack//G.U.): a NPC that specializes in managing guilds.
+The character [Death Grunty](https://dothack.fandom.com/wiki/Death_Grunty) is from [.hack//G.U.](https://en.wikipedia.org/wiki/.hack//G.U.), where he is an NPC that manages the Canard guild in The World R:2. His guild managing role in .hack//G.U. inspired the creation of Death Grunty as a Discord bot. 
 
 ## What can Death Grunty do? <a name="purpose"></a>
 Death Grunty's functionality can be split into two categories:
@@ -25,7 +23,7 @@ Death Grunty provides commands that can liven up discussions and moments on your
 - the ***/bookof1000*** command to see how you rank against other players in your server.
 
 2. ### Simple RPG Commands
-Along with Death Grunty comes The World R:M, his recreation of The World built from his memories of players and the atmosphere of The World R:2. Players can participate in The World R:M through using...
+Along with Death Grunty comes The World R:M, his recreation of The World built from his memories of players and the atmosphere of The World R:2. For example, players can use...
 - the ***/theworld*** command to input Area Word Phrases to adventure to and reap rewards.
 - the ***/memberaddress*** command to collect member addresses that increase your power.
 - the ***/profile*** command to customize textual info of your player character. 
@@ -33,8 +31,10 @@ Along with Death Grunty comes The World R:M, his recreation of The World built f
 
 Death Grunty also comes with basic moderation/admin commands that let you adjust Death Grunty's behavior on your server and manage your server's messages/users.
 
-## Background <a name="background"></a>
-Death Grunty started development in 2020 to self-teach myself Javascript/NodeJS and develop a general-purpose bot for my friends and I to use on a private Discord server. Overtime, Death Grunty went through several rewrites and eventually became a general-purpose bot with a hint of RPG elements. 
+To see all commands, <a href="commands">click here!</a>
 
-As of now, Death Grunty is currently maintained and developed by me (Ethyn Valen); Death Grunty is also hosted on a private dedicated server thanks to an amazing friend of mine.
+## Background <a name="background"></a>
+Death Grunty started development in 2020 as a way to self-teach myself JavaScript/NodeJS and to develop a general-purpose bot for my friends and I to use on a private Discord server. Overtime, Death Grunty went through several rewrites and eventually became a general-purpose bot fit for small communities and .hack fans.
+
+As of now, Death Grunty is currently maintained and developed by me (Ethyn Valen); Death Grunty is also hosted on a private dedicated server thanks to a generous friend. 
 
