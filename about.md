@@ -5,7 +5,6 @@ title: About
 
 ![This is an image](images/dg-portrait-detailed.png)
 
-# Table of contents
 1. [Who is Death Grunty?](#whois)
 2. [What can Death Grunty do?](#purpose)
 3. [Background](#background)
@@ -19,18 +18,18 @@ Death Grunty is based on [Death Grunty](https://dothack.fandom.com/wiki/Death_Gr
 Death Grunty's functionality can be split into two categories:
 
 1. ### Community/Text Based Commands
-Death Grunty provides commands that can liven up a conversation, save/create memories, and search things up. For example, you can use use... 
+Death Grunty provides commands that can liven up discussions and moments on your server. For example, use... 
 - the ***/8ball*** or ***/random*** commands to make a decision.
-- the ***/copypasta*** command to create copypastas of existing media or of your own creation. 
+- the ***/copypasta*** command to view and create copypastas of existing media or of your own creation. 
 - the ***/emote*** command to emote via GIFs from the .hack franchise.
-- the ***/anime*** to quickly lookup info about an anime.
+- the ***/bookof1000*** command to see how you rank against other players in your server.
 
 2. ### Simple RPG Commands
 Along with Death Grunty comes The World R:M, his recreation of The World built from his memories of players and the atmosphere of The World R:2. Players can participate in The World R:M through using...
-- the ***/theworld*** command to travel to different areas by entering an Area Word Phrase and reap rewards.
+- the ***/theworld*** command to input Area Word Phrases to adventure to and reap rewards.
 - the ***/memberaddress*** command to collect member addresses that increase your power.
 - the ***/profile*** command to customize textual info of your player character. 
-- the ***/grunty*** command to customize and interact with your and other players pet grunties.
+- the ***/grunty*** command to customize and interact with your and other pet grunties.
 
 Death Grunty also comes with basic moderation/admin commands that let you adjust Death Grunty's behavior on your server and manage your server's messages/users.
 

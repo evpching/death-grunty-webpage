@@ -11,8 +11,8 @@ layout: default
   <img src="images/banner-default.png" alt="Death Grunty Banner">
   {% if site.theme_config.show_description == true %}
     <img src="images/dg-portrait-detailed.png" alt="Death Grunty">
-    <p>{{ site.description }} To learn more, <a href="about">click here!</a>
-    </p>
+    <p>{{ site.description }}</p>
+    <p>To learn more, <a href="about">click here!</a></p>
     <a href="https://discord.com/api/oauth2/authorize?client_id=812881609794519082&permissions=0&scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer"><img width="60%" src="images/invite-button.png" alt="Death Grunty"></a>
   {% endif %}
 </header>
@@ -43,6 +43,7 @@ layout: default
 {% if site.theme_config.show_footer == true %}
   <footer>
     <div class="dashed"></div>
+    <p>Other Projects:</p>
     {% include horizontal_list_newtab.html collection=site.data.home.footer_entries %}
   </footer>
 {% endif %}
