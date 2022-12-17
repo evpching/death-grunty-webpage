@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy
+title: Death Grunty values your Privacy
 ---
 
 As I've never written a Privacy Statement before, this will be updated frequently.
