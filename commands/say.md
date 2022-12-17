@@ -7,4 +7,5 @@ The ***/say*** command allows you to make Death Grunty **say something in a cert
 
 ### Usage Examples
 
-TBI
+- Death Grunty saying a phrase with the sarcastic filter.
+![Death Grunty saying a phrase with the sarcastic filter.](../images/examples/say-sarcastic.jpg)

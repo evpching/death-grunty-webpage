@@ -7,4 +7,5 @@ The ***/presence*** command lets you browse Death Grunty's thoughts. You might n
 
 ### Usage Examples
 
-TBI
+- Viewing Death Grunty's thoughts on .hack//New World.
+![Viewing Death Grunty's thoughts on .hack//New World.](../images/examples/presence-1.jpg)

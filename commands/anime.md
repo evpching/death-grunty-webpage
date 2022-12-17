@@ -7,4 +7,5 @@ Death Grunty heckin' loves anime. The ***/anime*** command lets you quickly look
 
 ### Usage Examples
 
-TBI
+- Looking up general info about .hack//Roots
+![Looking up general info about .hack//Roots](../images/examples/anime-generalinfo.jpg)

@@ -7,4 +7,8 @@ The ***/profile*** command lets you customize and view your player **character's
 
 ### Usage Examples
 
-TBI
+- Viewing your player character's profile.
+![Viewing your player character's profile.](../images/examples/profile-view.jpg)
+
+- Editing your player character's profile.
+![Editing your player character's profile.](../images/examples/profile-edit.jpg)

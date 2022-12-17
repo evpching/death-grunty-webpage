@@ -9,4 +9,8 @@ Your pet grunty can also level up by feeding them **grunty food**. Leveling up y
 
 ### Usage Examples
 
-TBI
+- Editing and viewing your pet grunty.
+![Editing and viewing your pet grunty.](../images/examples/grunty-viewedit.jpg)
+
+- Choosing a pet grunty glam from The World R:2 category.
+![Choosing a pet grunty glam from The World R:2 category.](../images/examples/grunty-glam.jpg)

@@ -7,4 +7,5 @@ The ***/admin*** command allows server owners/admins to configure Death Grunty f
 
 ### Usage Examples
 
-TBI
+- Viewing how Death Grunty is configured for your server.
+![Viewing how Death Grunty is configured for your server.](../images/examples/admin-settings.jpg)

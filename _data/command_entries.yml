@@ -2,6 +2,12 @@ commands:
   - title: /8ball
     url: 8ball
     desc: Get a fortune from Death Grunty!
+  - title: /admin
+    url: admin
+    desc: Admin commands to configure Death Grunty.
+  - title: /anime
+    url: anime
+    desc: Search for info about an anime.
   - title: /copypasta
     url: copypasta
     desc: Create and view copypastas in your guild!
@@ -23,18 +29,27 @@ commands:
   - title: /memberaddress
     url: memberaddress
     desc: Send and view your collected member addresses.
+  - title: /mod
+    url: mod
+    desc: Simple moderation commands.
   - title: /music
     url: music
     desc: Play audio from select sources in a voice channel! Only available on select servers.
   - title: /newscapture
     url: newscapture
     desc: View a glimpse of news in the real world.
+  - title: /notifications
+    url: notifications
+    desc: Your place for personal notifications.
   - title: /presence
     url: presence
     desc: Peruse Grunty's thoughts on what he's doing!
   - title: /profile
     url: profile
     desc: View and edit your profile for The World R:M!
+  - title: /random
+    url: random
+    desc: A collection of rng-related activities.
   - title: /say
     url: say
     desc: Make Death Grunty say something in various ways!
@@ -44,24 +59,11 @@ commands:
   - title: /shop
     url: shop
     desc: Buy items from the Root Town you're in!
+    highlight: WIP
   - title: /theworld
     url: theworld
     desc: Adventure into the realm of The World R:M!
-  - title: /mod
-    url: mod
-    desc: Simple moderation commands.
-  - title: /admin
-    url: admin
-    desc: Admin commands to configure Death Grunty.
+    highlight: WIP
   - title: /trivia
     url: trivia
     desc: Test your .hack knowledge! (May contain spoilers)
-  - title: /anime
-    url: anime
-    desc: Search for info about an anime.
-  - title: /random
-    url: random
-    desc: A collection of rng-related activities.
-  - title: /notifications
-    url: notifications
-    desc: Your place for personal notifications.

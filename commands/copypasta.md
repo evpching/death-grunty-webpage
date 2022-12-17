@@ -8,10 +8,7 @@ The ***/copypasta*** command lets you create, view, and modify (your own) copypa
 ### Usage Examples
 
 - Creating a new copypasta.
-![Creating a new copypasta.](../images/examples/copypasta_new.jpg)
-
-- Editing a copypasta.
-![Editing a copypasta.](../images/examples/copypasta_edit.jpg)
+![Creating a new copypasta.](../images/examples/copypasta-new.jpg)
 
 - Viewing a copypasta.
-![Viewing a copypasta.](../images/examples/copypasta_view.jpg)
+![Viewing a copypasta.](../images/examples/copypasta-view.jpg)

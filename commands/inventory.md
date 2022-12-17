@@ -7,4 +7,5 @@ The ***/inventory*** command lets you view and use items in your inventory. Item
 
 ### Usage Examples
 
-TBI
+- Viewing obtained titles.
+![Viewing obtained titles.](../images/examples/inventory-view.jpg)

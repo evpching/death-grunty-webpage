@@ -7,4 +7,5 @@ Like the News Capture application from your desktop in .hack//G.U., the ***/news
 
 ### Usage Examples
 
-TBI
+- Viewing tech-related news provided by Hacker News.
+![Viewing tech-related news provided by Hacker News.](../images/examples/newscapture-1.jpg)

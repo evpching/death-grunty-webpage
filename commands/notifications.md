@@ -7,4 +7,5 @@ The ***/notifications*** command lets you view when someone interacted with your
 
 ### Usage Examples
 
-TBI
+- Viewing notifications about who viewed your copypastas, talked to your pet grunty, etc.
+![iewing notifications about who viewed your copypastas, talked to your pet grunty, etc.](../images/examples/notifications-1.jpg)

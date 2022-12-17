@@ -7,4 +7,5 @@ The ***/help*** command lets you view the **slash commands and their description
 
 ### Usage Examples
 
-TBI
+- Viewing the available slash commands.
+![Viewing the available slash commands.](../images/examples/help-1.jpg)

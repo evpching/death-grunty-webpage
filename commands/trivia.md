@@ -7,4 +7,5 @@ The ***/trivia*** command lets you test your .hack knowledge by giving you rando
 
 ### Usage Examples
 
-TBI
+- Answering a question about Hulle Granz Cathedral.
+![Answering a question about Hulle Granz Cathedral.](../images/examples/trivia-1.jpg)
