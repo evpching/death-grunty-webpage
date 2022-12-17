@@ -16,11 +16,11 @@ Thank you for using Death Grunty's services. In a time where most Discord bots a
 - Death Grunty collects the following data:
 1. User ID.
 2. Server ID.
-3. Command usage, including parameters used.
+3. Commands that are used, including parameters. 
 4. Any data you provide to certain commands that ask for input.
 
 ## How does Death Grunty use your data?
-- The most important point. Death Grunty collects data to:
+- Death Grunty collects data to:
 1. Allow server owners to **configure how Death Grunty behaves** on their server.
 2. **Give functionality** to Death Grunty's commands and experiences.
 3. Keep **logs of command usage and errors** that may occur.

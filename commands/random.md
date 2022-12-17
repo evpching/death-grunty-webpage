@@ -3,7 +3,7 @@ layout: command
 title: /random
 ---
 
-The ***/random*** command contains a collection of simple rng-related actions such as flipping a coin, generating a random number, randomly choose from a list of items, and rolling dice.
+The ***/random*** command contains **a collection of simple rng-related actions** such as flipping a coin, generating a random number, randomly choose from a list of items, and rolling dice.
 
 ### Usage Examples
 

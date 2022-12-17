@@ -3,14 +3,14 @@ layout: command
 title: /8ball
 ---
 
-The ***/8ball*** command is exactly what you think it is: you ask a question, and a random answer is given to you. Like a real magic 8 ball, Death Grunty will give you three kinds of answers: postive, neutral, and negative. 
+The ***/8ball*** command is exactly what you think it is: you ask Death Grunty a question, and he gives you a random answer. Like a real magic 8 ball, Death Grunty will give you three kinds of answers: postive, neutral, and negative. 
 
-Some answers that Death Grunty gives reflect his personality and thus may offend you, but he probably doesn't mean it...
+Some answers that Death Grunty responds with are mean, but he probably doesn't mean anything by it...
 
 ### Usage Examples
 
-- /8ball command producing a positive answer.
+- Death Grunty giving a positive answer.
 ![/8ball command producing a positive answer.](../images/examples/8ball_1.jpg)
 
-- /8ball command producing a negative answer.
+- Death Grunty giving a negative answer.
 ![/8ball command producing a negative answer.](../images/examples/8ball_2.jpg)

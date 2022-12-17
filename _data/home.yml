@@ -2,11 +2,11 @@ navbar_entries:
   - title: About
     url: about
 
-  - title: Privacy
-    url: privacy
-
   - title: Commands
     url: commands
+
+  - title: Privacy
+    url: privacy
 
   - title: Updates
     url: updates
@@ -15,8 +15,6 @@ navbar_entries:
     url: donate
 
 footer_entries:
-  - title: .hack//IMOQ Fan Remaster
-    url: http://76.110.248.24:831/
   - title: Music Extensions
     url: https://www.youtube.com/@ethynvalen1587
 

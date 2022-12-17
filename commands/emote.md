@@ -3,7 +3,7 @@ layout: command
 title: /emote
 ---
 
-The ***/emote*** command lets you display reactions using **random GIFs/images** from the .hack franchise. You can also choose whether to react to a specific user or to no one in particular. Majority of these images are GIFs and come from the .hack animes.
+The ***/emote*** command lets you display reactions using **random GIFs/images** from the .hack franchise. You can also choose whether to react to a specific user or to no one in particular. Each image also has a different emote message.
 
 ### Usage Examples
 
