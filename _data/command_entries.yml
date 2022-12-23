@@ -1,28 +1,28 @@
 commands:
   - title: /8ball
     url: 8ball
-    desc: Get a fortune from Death Grunty!
-  - title: /admin
-    url: admin
-    desc: Admin commands to configure Death Grunty.
+    desc: Ask a yes-no question and recieve a response.
   - title: /anime
     url: anime
     desc: Search for info about an anime.
+  - title: /configure
+    url: configure
+    desc: Configure how Death Grunty behaves in your server.
   - title: /copypasta
     url: copypasta
-    desc: Create and view copypastas in your guild!
+    desc: Create and view copypastas in your guild.
   - title: /emote
     url: emote
-    desc: Emote with GIFs/Pics from the .hack franchise!
+    desc: Emote with GIFs/Pics from the .hack franchise.
   - title: /greetingcard
     url: greetingcard
-    desc: Sends a greeting card to someone.
+    desc: Send a greeting card to someone.
   - title: /grunty
     url: grunty
-    desc: Customize and interact with your pet grunty!
+    desc: Customize and interact with your and other pet grunties.
   - title: /help
     url: help
-    desc: Check available slash commands and how to get started!
+    desc: Check available slash commands and helpful guides.
   - title: /inventory
     url: inventory
     desc: View and use items from your inventory.
@@ -40,30 +40,28 @@ commands:
     desc: View a glimpse of news in the real world.
   - title: /notifications
     url: notifications
-    desc: Your place for personal notifications.
+    desc: View notifications relating to you on Death Grunty.
   - title: /presence
     url: presence
-    desc: Peruse Grunty's thoughts on what he's doing!
+    desc: Peruse Grunty's thoughts on what he's doing.
   - title: /profile
     url: profile
-    desc: View and edit your profile for The World R:M!
+    desc: View and edit your player character profile.
   - title: /random
     url: random
-    desc: A collection of rng-related activities.
+    desc: A collection of simple rng-related commands.
   - title: /say
     url: say
-    desc: Make Death Grunty say something in various ways!
+    desc: Make Death Grunty say something in various ways.
   - title: /secret
     url: secret
     desc: Input a secret command... if you know any!
   - title: /shop
     url: shop
-    desc: Buy items from the Root Town you're in!
-    highlight: WIP
+    desc: Purchase items from the Root Town you're in.
   - title: /theworld
     url: theworld
     desc: Adventure into the realm of The World R:M!
-    highlight: WIP
   - title: /trivia
     url: trivia
     desc: Test your .hack knowledge! (May contain spoilers)
