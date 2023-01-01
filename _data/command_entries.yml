@@ -5,6 +5,9 @@ commands:
   - title: /anime
     url: anime
     desc: Search for info about an anime.
+  - title: /bookof1000
+    url: bookof1000
+    desc: View leaderboards for your guild.
   - title: /configure
     url: configure
     desc: Configure how Death Grunty behaves in your server.
